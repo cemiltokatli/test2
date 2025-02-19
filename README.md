@@ -2,7 +2,7 @@
 
 ## Optional chaining operator (`?.`)
 
-## ?
+## `isNaN()` global function
 
 ## `null` and `undefined` explained: A complete guide
 
